@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**SzymonSzymonowicz/SzymonSzymonowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Szymon and I currently work as a backend developer that mainly operates in Java, Spring Boot and related projects.
 
-Here are some ideas to get you started:
+I've also learned on my own glimpses of frontent development using frameworks and libraries like Vue or React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm open for new challenges and eager to learn new technologies. :fire:
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szymonszymonowicz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szymonszymonowicz&include_all_commits=true)
